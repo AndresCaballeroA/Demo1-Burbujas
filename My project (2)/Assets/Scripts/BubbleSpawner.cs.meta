@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a55a9545d2ee9f74a91b59e89afdb362
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bubblePrefab: {instanceID: 0}
+  - playerCam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
